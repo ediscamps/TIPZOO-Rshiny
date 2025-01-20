@@ -1,0 +1,411 @@
+code;Skel_part;Activity;Details_acti
+At_a;Atlas;Désarticulation;DS (CRA/ATL)
+At_b;Atlas;? décharnement &/ou éviscération;DC + EV
+At_bs;Atlas;? désarticulation ?;DS ?
+At_c;Atlas;? décharnement &/ou éviscération &/ou désarticulation;DC + EV + DS (ATL/AXI)
+At_cp;Atlas;? décharnement &/ou éviscération;DC + EV
+At_d;Atlas;Décharnement;DC
+At_dp;Atlas;Décharnement;DC
+At_ds;Atlas;Décharnement;DC
+At_e;Atlas;Décharnement;DC
+At_ep;Atlas;Décharnement;DC
+At_es;Atlas;? désarticulation ?;DS ?
+At_f;Atlas;Désarticulation;DS (ATL/AXI)
+At_fs;Atlas;Décharnement;DC
+At_g;Atlas;? décharnement (&/ou désarticulation?);DC + DS ?
+At_gp;Atlas;Décharnement;DC
+At_h;Atlas;Désarticulation;DS (CRA/ATL)
+At_i;Atlas;Désarticulation;DS (ATL/AXI)
+Ax_a;Axis;? décharnement &/ou désarticulation;DC + DS (ATL/AXI)
+Ax_ap;Axis;Décharnement;DC
+Ax_b;Axis;? décharnement &/ou désarticulation;DC + DS (ATL/AXI)
+Ax_bp;Axis;Décharnement;DC
+Ax_bs;Axis;? décharnement &/ou désarticulation;DC + DS (ATL/AXI)
+Ax_c;Axis;? désarticulation ?;DS ?
+Ax_cp;Axis;Décharnement;DC
+Ax_d;Axis;? décharnement (&/ou désarticulation?);DC + DS ?
+Ax_dp;Axis;Décharnement;DC
+Ax_e;Axis;Décharnement;DC
+Ax_ep;Axis;Décharnement;DC
+Ax_f;Axis;? décharnement &/ou désarticulation;DC + DS (ATL/AXI)
+Ax_fp;Axis;? décharnement &/ou désarticulation;DC + DS (ATL/AXI)
+Ax_g;Axis;Décharnement;DC
+Ax_gp;Axis;Décharnement;DC
+Ax_h;Axis;? décharnement (&/ou désarticulation?);DC + DS ?
+Ax_i;Axis;? décharnement &/ou désarticulation;DC + DS (AXI/CER3)
+Ax_ip;Axis;Décharnement;DC
+Ax_j;Axis;? décharnement &/ou éviscération &/ou désarticulation;DC + EV + DS (ATL/AXI)
+Ax_jp;Axis;? décharnement &/ou éviscération;DC + EV
+Ax_js;Axis;Désarticulation;DS (ATL/AXI)
+Ax_k;Axis;? décharnement &/ou éviscération (&/ou désarticulation?);DC + EV + DS ?
+Ax_kp;Axis;? décharnement &/ou éviscération;DC + EV
+Ax_ks;Axis;? décharnement &/ou éviscération (&/ou désarticulation?);DC + EV + DS ?
+Cal_a;Tarsiens;? décharnement &/ou désarticulation (&/ou suspension?);DS (TIB/TAR flex.) + DC (+ SP?)
+Cal_b;Tarsiens;Désarticulation;DS (TIB/TAR flex.)
+Cal_c;Tarsiens;Désarticulation;DS (TAR1/TAR2)
+Cal_dp;Tarsiens;Décharnement;DC
+Cal_e;Tarsiens;Désarticulation;DS (TIB/TAR exten.)
+Cal_ep;Tarsiens;Désarticulation;DS (TIB/TAR flex.)
+Cal_f;Tarsiens;Désarticulation;DS (TIB/TAR)
+Cal_g;Tarsiens;Désarticulation;DS (TIB/TAR)
+Cal_gp;Tarsiens;Dépouillement;DP
+Cal_h;Tarsiens;? décharnement (&/ou suspension?);DC (+ SP?) 
+Cal_i;Tarsiens;Décharnement;DC
+Cbn_a;Tarsiens;Désarticulation;DS (TAR1/TAR2 ou TAR/MET)
+Cbn_ap;Tarsiens;Dépouillement;DP
+Ctt_a;Carpiens;Désarticulation;DS (CAR1/CAR2)
+Ctt_b;Carpiens;Désarticulation;DS
+Cv_a;Vertèbre cervicale;Décharnement;DC
+Cv_ap;Vertèbre cervicale;Décharnement;DC
+Cv_b;Vertèbre cervicale;? décharnement &/ou désarticulation;DC + DS (AXI/CER3)
+Cv_bp;Vertèbre cervicale;Décharnement;DC
+Cv_c;Vertèbre cervicale;? décharnement (&/ou désarticulation?);DC + DS ?
+Cv_cp;Vertèbre cervicale;Décharnement;DC
+Cv_d;Vertèbre cervicale;Décharnement;DC
+Cv_dp;Vertèbre cervicale;Décharnement;DC
+Cv_ds;Vertèbre cervicale;? décharnement &/ou désarticulation;DC + DS (CER)
+Cv_e;Vertèbre cervicale;? décharnement (&/ou désarticulation?);DC + DS ?
+Cv_f;Vertèbre cervicale;Décharnement;DC
+Cv_g;Vertèbre cervicale;Décharnement;DC
+Cv_gs;Vertèbre cervicale;Désarticulation;DS (CER)
+Cv_h;Vertèbre cervicale;Décharnement;DC
+Cv_i;Vertèbre cervicale;Désarticulation;DS (CER) + DC
+Cv_ip;Vertèbre cervicale;Décharnement;DC
+Cv_j;Vertèbre cervicale;Décharnement;DC
+Cv_jp;Vertèbre cervicale;Décharnement;DC
+Cv_k;Vertèbre cervicale;Désarticulation;DS (CER) + DC
+Cv_kp;Vertèbre cervicale;Décharnement;DC
+Cv_l;Vertèbre cervicale;? décharnement &/ou éviscération;DC + EV
+Cv_lp;Vertèbre cervicale;? décharnement &/ou éviscération;DC + EV
+Cv_ls;Vertèbre cervicale;Désarticulation;DS
+Cv_m;Vertèbre cervicale;Désarticulation;DS
+Cv_n;Vertèbre cervicale;Désarticulation;DS
+Cv_o;Vertèbre cervicale;Désarticulation;DS
+Fd_a;Fémur;Décharnement;DC
+Fd_b;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fd_c;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fd_cp;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fd_d;Fémur;Désarticulation;DS
+Fd_e;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fd_f;Fémur;Décharnement;DC
+Fd_g;Fémur;Désarticulation;DS
+Fd_h;Fémur;Décharnement;DC
+Fd_i;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fib_a;Fibula;Désarticulation;DS
+Fib_b;Fibula;Décharnement;DC
+Fib_c;Fibula;Décharnement;DC
+Fp_a;Fémur;Désarticulation;DS
+Fp_b;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fp_c;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fp_cp;Fémur;? décharnement? désarticulation? ;DS? / DC ?
+Fp_d;Fémur;Décharnement;DC
+Fp_dp;Fémur;Décharnement;DC
+Fp_e;Fémur;? décharnement &/ou désarticulation;DS + DC
+Fp_ep;Fémur;Décharnement;DC
+Fp_f;Fémur;? décharnement (&/ou désarticulation?);DC (+ DS?)
+Fp_fp;Fémur;? décharnement (&/ou désarticulation?);DC (+ DS?)
+Fp_g;Fémur;Décharnement;DC
+Fp_h;Fémur;Décharnement;DC
+Fp_i;Fémur;Décharnement;DC
+Fp_ip;Fémur;Décharnement;DC
+Fs_a;Fémur;Décharnement;DC
+Fs_ap;Fémur;Décharnement;DC
+Gcf_a;Tarsiens;Désarticulation;DS (TAR1/TAR2)
+Hd_a;Humérus;Désarticulation;DS
+Hd_ap;Humérus;Décharnement;DC
+Hd_b;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hd_c;Humérus;Décharnement;DC
+Hd_cp;Humérus;Décharnement;DC
+Hd_d;Humérus;Désarticulation;DS (exten.)
+Hd_dp;Humérus;? décharnement &/ou désarticulation;DS (flex.) + DC
+Hd_e;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hd_f;Humérus;Décharnement;DC
+Hd_g;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hd_gp;Humérus;Décharnement;DC
+Hd_h;Humérus;Désarticulation;DS
+Hd_hp;Humérus;Désarticulation;DS
+Hp_a;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hp_ap;Humérus;Décharnement;DC
+Hp_b;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hp_c;Humérus;Désarticulation;DS
+Hp_cp;Humérus;Décharnement;DC
+Hp_d;Humérus;Décharnement;DC
+Hp_e;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hp_ep;Humérus;Décharnement;DC
+Hp_f;Humérus;Décharnement;DC
+Hp_g;Humérus;Décharnement;DC
+Hp_gp;Humérus;Décharnement;DC
+Hp_h;Humérus;? décharnement &/ou désarticulation;DS + DC
+Hp_hp;Humérus;Décharnement;DC
+Hp_ip;Humérus;Décharnement;DC
+Hp_j;Humérus;Désarticulation;DS
+Hp_k;Humérus;Désarticulation;DS
+Hp_kp;Humérus;Décharnement;DC
+Hp_l;Humérus;Décharnement;DC
+Hp_lp;Humérus;Décharnement;DC
+Hp_m;Humérus;Décharnement;DC
+Hp_mp;Humérus;Décharnement;DC
+Hs_a;Humérus;Décharnement;DC
+Hs_ap;Humérus;Décharnement;DC
+Lun_a;Carpiens;Désarticulation;DS (RAD/CAR1)
+Lun_ap;Carpiens;? désarticulation &/ou dépouillement;DS + DP
+Lun_b;Carpiens;Désarticulation;DS (CAR1/CAR2)
+Lun_bp;Carpiens;Dépouillement;DP
+Lun_c;Carpiens;Désarticulation;incidental DS marks
+Lv_a;Vertèbre lombaire;Décharnement;DC
+Lv_ap;Vertèbre lombaire;Décharnement;DC
+Lv_b;Vertèbre lombaire;Décharnement;DC
+Lv_bp;Vertèbre lombaire;Décharnement;DC
+Lv_bs;Vertèbre lombaire;Désarticulation;DS
+Lv_c;Vertèbre lombaire;Décharnement;DC
+Lv_cp;Vertèbre lombaire;Désarticulation;DS
+Lv_cs;Vertèbre lombaire;Désarticulation;DS
+Lv_d;Vertèbre lombaire;? décharnement &/ou désarticulation;DC + DS
+Lv_dp;Vertèbre lombaire;Décharnement;DC
+Lv_ds;Vertèbre lombaire;Désarticulation;DS
+Lv_e;Vertèbre lombaire;Décharnement;DC
+Lv_ep;Vertèbre lombaire;Décharnement;DC
+Lv_es;Vertèbre lombaire;Désarticulation;DS
+Lv_f;Vertèbre lombaire;Désarticulation;DS
+Lv_g;Vertèbre lombaire;Désarticulation;DS
+Lv_h;Vertèbre lombaire;Décharnement;DC
+Lv_hp;Vertèbre lombaire;Décharnement;DC
+Lv_i;Vertèbre lombaire;Décharnement;DC
+Lv_ip;Vertèbre lombaire;Décharnement;DC
+Lv_j;Vertèbre lombaire;Désarticulation;DS
+Lv_k;Vertèbre lombaire;Désarticulation;DS
+Lv_kp;Vertèbre lombaire;Décharnement;DC
+Lv_l;Vertèbre lombaire;? décharnement &/ou désarticulation;DC + DS
+Lv_m;Vertèbre lombaire;Décharnement;DC
+Lv_mp;Vertèbre lombaire;Décharnement;DC
+Lv_n;Vertèbre lombaire;Eviscération;EV
+Lv_ns;Vertèbre lombaire;Désarticulation;DS
+Lv_o;Vertèbre lombaire;Eviscération;EV
+Man_a;Mandibule;Dépouillement;DP
+Man_ap;Mandibule;Dépouillement;DP
+Man_b;Mandibule;Dépouillement;DP
+Man_bp;Mandibule;Dépouillement;DP
+Man_c;Mandibule;Dépouillement;DP
+Man_cp;Mandibule;Dépouillement;DP
+Man_d;Mandibule;Décharnement;DC
+Man_dp;Mandibule;Décharnement;DC
+Man_e;Mandibule;Désarticulation;DS
+Man_ep;Mandibule;Désarticulation;DS
+Man_f;Mandibule;? décharnement &/ou désarticulation;DS + DC
+Man_fp;Mandibule;? décharnement &/ou désarticulation;DS + DC
+Man_g;Mandibule;Décharnement;DC
+Man_gp;Mandibule;Décharnement;DC
+Man_gs;Mandibule;Décharnement;DC
+Man_h;Mandibule;Décharnement;DC
+Man_i;Mandibule;? décharnement &/ou désarticulation;DS + DC
+Mcd_a;Métacarpien;Désarticulation;DS
+Mcd_b;Métacarpien;Désarticulation;DS
+Mcd_bp;Métacarpien;Retrait des tendons;TN POST
+Mcd_c;Métacarpien;? désarticulation &/ou dépouillement;DP + DS
+Mcd_cp;Métacarpien;Désarticulation;DS
+Mcd_d;Métacarpien;Désarticulation;DS
+Mcp_a;Métacarpien;Désarticulation;DS
+Mcp_b;Métacarpien;Retrait des tendons;TN ANT
+Mcp_d;Métacarpien;Dépouillement;DP
+Mcp_e;Métacarpien;Retrait des tendons;TN POST
+Mcs_a;Métacarpien;Dépouillement;DP
+Mcs_ap;Métacarpien;Dépouillement;DP
+Mcs_as;Métacarpien;Dépouillement;DP
+Mcs_b;Métacarpien;Dépouillement;DP
+Mcs_bp;Métacarpien;Dépouillement;DP
+Mcs_bs;Métacarpien;Dépouillement;DP
+Mcs_c;Métacarpien;Retrait des tendons;TN ANT
+Mcs_cp;Métacarpien;Retrait des tendons;TN ANT
+Mcs_d;Métacarpien;? dépouillement &/ou retrait des tendons;DP + TN ANT
+Mcs_e;Métacarpien;Dépouillement;DP
+Mcs_f;Métacarpien;Retrait des tendons;TN POST
+Mcs_fp;Métacarpien;Retrait des tendons;TN POST
+Ml_a;Malléole;Désarticulation;DS
+Mtd_a;Métatarsien;Désarticulation;DS
+Mtd_b;Métatarsien;Désarticulation;DS
+Mtd_bp;Métatarsien;Désarticulation;DS
+Mtd_bs;Métatarsien;? désarticulation &/ou dépouillement;DP + DS
+Mtd_c;Métatarsien;? désarticulation &/ou retrait des tendons;DS + TN ANT
+Mtd_cp;Métatarsien;Retrait des tendons;TN ANT
+Mtd_d;Métatarsien;Désarticulation;DS
+Mtp_a;Métatarsien;Désarticulation;DS
+Mtp_b;Métatarsien;Retrait des tendons;TN ANT
+Mtp_bs;Métatarsien;Désarticulation;DS
+Mtp_c;Métatarsien;Retrait des tendons;TN ANT
+Mtp_d;Métatarsien;Dépouillement;DP
+Mtp_e;Métatarsien;Retrait des tendons;TN POST
+Mts_a;Métatarsien;Dépouillement;DP
+Mts_ap;Métatarsien;Dépouillement;DP
+Mts_as;Métatarsien;Dépouillement;DP
+Mts_b;Métatarsien;Dépouillement;DP
+Mts_bp;Métatarsien;Dépouillement;DP
+Mts_bs;Métatarsien;Dépouillement;DP
+Mts_c;Métatarsien;Retrait des tendons;TN ANT
+Mts_cp;Métatarsien;Retrait des tendons;TN ANT
+Mts_d;Métatarsien;Dépouillement;DP
+Mts_e;Métatarsien;Dépouillement;DP
+Mts_f;Métatarsien;Retrait des tendons;TN POST
+Mts_fp;Métatarsien;Retrait des tendons;TN POST
+Pat_a;Patella;Décharnement;DC
+Ph1_a;Phalanges;Désarticulation;DS
+Ph1_b;Phalanges;Désarticulation;DS
+Ph1_c;Phalanges;? désarticulation &/ou dépouillement;DP + DS
+Ph1_d;Phalanges;Désarticulation;DS (between PH1)
+Ph1_e;Phalanges;Dépouillement;DP
+Ph1_f;Phalanges;Retrait des tendons;TN
+Ph1_fs;Phalanges;Dépouillement;DP
+Ph1_gp;Phalanges;Retrait des tendons;TN
+Ph1_h;Phalanges;? dépouillement &/ou retrait des tendons;DP + TN
+Ph2_b;Phalanges;Désarticulation;DS
+Ph2_c;Phalanges;Dépouillement;DP
+Ph2_d;Phalanges;Désarticulation;DS (between PH2)
+Ph2_hp;Phalanges;Dépouillement;DP
+Pis_a;Carpiens;Désarticulation;DS (CAR1/CAR2)
+Pis_b;Carpiens;Désarticulation;DS (RAD/CAR1)
+Pis_c;Carpiens;Désarticulation;DS
+Pis_cp;Carpiens;? désarticulation &/ou dépouillement;DP + DS
+Pis_d;Carpiens;Désarticulation;DS
+Pyr_a;Carpiens;Désarticulation;DS (RAD/CAR1)
+Pyr_ap;Carpiens;Dépouillement;DP
+Pyr_b;Carpiens;Désarticulation;DS (CAR1/CAR2)
+Pyr_c;Carpiens;Désarticulation;incidental DS marks
+Pyr_cp;Carpiens;Dépouillement;DP
+Rd_a;Radius;Décharnement;DC
+Rd_ap;Radius;? décharnement &/ou retrait des tendons;TN + DC
+Rd_b;Radius;Désarticulation;DS
+Rd_c;Radius;Décharnement;DC
+Rd_cp;Radius;Décharnement;DC
+Rd_d;Radius;Désarticulation;DS
+Rd_dp;Radius;Décharnement;DC
+Rd_e;Radius;Désarticulation;DS
+Rd_ep;Radius;Désarticulation;DS
+Rp_a;Radius;Désarticulation;DS
+Rp_ap;Radius;? décharnement &/ou désarticulation;DS + DC
+Rp_b;Radius;? décharnement &/ou désarticulation;DS + DC
+Rp_c;Radius;Décharnement;DC
+Rp_cp;Radius;Décharnement;DC
+Rp_d;Radius;Décharnement;DC
+Rp_e;Radius;Désarticulation;DS
+Rp_ep;Radius;Décharnement;DC
+Rp_f;Radius;Décharnement;DC
+Rp_fs;Radius;Désarticulation;DS
+Rp_g;Radius;Décharnement;DC
+Rs_a;Radius;Décharnement;DC
+Rs_ap;Radius;Décharnement;DC
+Rs_b;Radius;Décharnement;DC
+Rs_bp;Radius;Décharnement;DC
+Rs_bs;Radius;? décharnement (&/ou dépouillement?);DC (+ DP?)
+Rs_c;Radius;Décharnement;DC
+Rs_cp;Radius;? décharnement &/ou retrait des tendons;TN + DC
+Rs_cs;Radius;? décharnement (&/ou dépouillement?);DC (+ DP?)
+Sac_a;Sacrum;Décharnement;DC
+Sac_ap;Sacrum;Décharnement;DC
+Sac_b;Sacrum;Désarticulation;DS
+Sac_c;Sacrum;Désarticulation;DS
+Sac_cp;Sacrum;Désarticulation;DS
+Sac_d;Sacrum;Décharnement;DC
+Sac_dp;Sacrum;Décharnement;DC
+Sac_e;Sacrum;Eviscération;EV
+Sac_ep;Sacrum;Eviscération;EV
+Sc_a;Scapula;? décharnement (&/ou désarticulation?);DC (+ DS?)
+Sc_ap;Scapula;Décharnement;DC
+Sc_as;Scapula;Désarticulation;DS
+Sc_b;Scapula;Décharnement;DC
+Sc_bp;Scapula;Décharnement;DC
+Sc_bs;Scapula;? décharnement &/ou désarticulation;DS + DC
+Sc_c;Scapula;Décharnement;DC
+Sc_cp;Scapula;Décharnement;DC
+Sc_d;Scapula;Décharnement;DC
+Sc_e;Scapula;Décharnement;DC
+Sc_ep;Scapula;Décharnement;DC
+Sca_a;Carpiens;Désarticulation;DS (RAD/CAR1)
+Sca_b;Carpiens;Désarticulation;DS (CAR1/CAR2)
+Sca_c;Carpiens;Désarticulation;incidental DS marks
+Ses_a;Sésamoïdes;Désarticulation;DS (MET/PH1)
+Ses_b;Sésamoïdes;Désarticulation;DS (MET/PH1)
+Ses_c;Sésamoïdes;? désarticulation &/ou tendon remova;DS (MET/PH1) + TN
+Ses_d;Sésamoïdes;? désarticulation &/ou tendon remova;DS (MET/PH1) + TN
+Ses_e;Sésamoïdes;Désarticulation;DS (MET/PH1)
+Ses_f;Sésamoïdes;Désarticulation;DS (MET/PH1)
+Ses_g;Sésamoïdes;Retrait des tendons;TN PH1
+Ses_h;Sésamoïdes;Désarticulation;DS (MET/PH1)
+Tal_a;Tarsiens;Désarticulation;DS TIB/TAR (flex.)
+Tal_b;Tarsiens;Désarticulation;DS TIB/TAR
+Tal_c;Tarsiens;Désarticulation;DS TIB/TAR (flex.)
+Tal_cs;Tarsiens;Désarticulation;DS TIB/TAR (exten.)
+Tal_d;Tarsiens;Désarticulation;DS
+Tal_e;Tarsiens;Désarticulation;DS TIB/TAR (flex.)
+Td_ap;Tibia;Dépouillement;DP
+Td_as;Tibia;Dépouillement;DP
+Td_b;Tibia;Décharnement;DC
+Td_bs;Tibia;? décharnement &/ou dépouillement;DC + DP
+Td_c;Tibia;Dépouillement;DP
+Td_d;Tibia;Décharnement;DC
+Td_e;Tibia;Désarticulation;DS
+Td_f;Tibia;Décharnement;DC
+Td_fp;Tibia;Décharnement;DC
+Td_fs;Tibia;Désarticulation;DS
+Td_g;Tibia;Désarticulation;DS
+Tp_a;Tibia;? décharnement &/ou désarticulation;DS + DC
+Tp_b;Tibia;Décharnement;DC
+Tp_bp;Tibia;Décharnement;DC
+Tp_c;Tibia;Désarticulation;DS
+Tp_d;Tibia;Décharnement;DC
+Tp_dp;Tibia;Décharnement;DC
+Tp_e;Tibia;? décharnement &/ou désarticulation;DS + DC
+Tp_f;Tibia;Décharnement;DC
+Tp_fp;Tibia;Décharnement;DC
+Ts_a;Tibia;Décharnement;DC
+Ts_ap;Tibia;Décharnement;DC
+Ts_b;Tibia;Décharnement;DC
+Ts_bp;Tibia;? décharnement &/ou dépouillement;DC + DP
+Ts_c;Tibia;Décharnement;DC
+Ts_cp;Tibia;Décharnement;DC
+Ts_d;Tibia;Décharnement;DC
+Ts_dp;Tibia;? décharnement &/ou dépouillement;DC + DP
+Ts_ds;Tibia;? décharnement &/ou dépouillement;DC + DP
+Ts_e;Tibia;Décharnement;DC
+Ts_ep;Tibia;Décharnement;DC
+Ts_es;Tibia;? décharnement &/ou dépouillement;DC + DP
+Tv_a;Vertèbre thoracique;Décharnement;DC
+Tv_ap;Vertèbre thoracique;Décharnement;DC
+Tv_as;Vertèbre thoracique;Désarticulation;DS
+Tv_b;Vertèbre thoracique;? désarticulation &/ou éviscération;EV + DS
+Tv_c;Vertèbre thoracique;Désarticulation;DS
+Tv_cp;Vertèbre thoracique;Décharnement;DC
+Tv_d;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_dp;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_ds;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_e;Vertèbre thoracique;Eviscération;EV
+Tv_es;Vertèbre thoracique;? éviscération (&/ou désarticulation?);EV + DS ?
+Tv_f;Vertèbre thoracique;? décharnement &/ou éviscération;EV + DC
+Tv_fp;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_g;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_gp;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_h;Vertèbre thoracique;Désarticulation;DS
+Tv_hp;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_i;Vertèbre thoracique;Désarticulation;DS
+Tv_j;Vertèbre thoracique;Désarticulation;DS (RIB)
+Tv_k;Vertèbre thoracique;Désarticulation;DS
+Tv_l;Vertèbre thoracique;Décharnement;DC
+Tv_lp;Vertèbre thoracique;Décharnement;DC
+Ud_a;Ulna;Désarticulation;DS
+Unc_a;Carpiens;Désarticulation;DS (CAR1/CAR2)
+Unc_b;Carpiens;Désarticulation;DS
+Up_a;Ulna;? décharnement (&/ou dépouillement?);DC (+ DP?)
+Up_ap;Ulna;Décharnement;DC
+Up_b;Ulna;Décharnement;DC
+Up_bp;Ulna;Décharnement;DC
+Up_c;Ulna;Désarticulation;DS
+Up_d;Ulna;? décharnement &/ou désarticulation;DS + DC
+Up_e;Ulna;Désarticulation;DS
+Up_f;Ulna;? décharnement &/ou désarticulation;DS + DC
+Up_g;Ulna;Désarticulation;DS
+Up_h;Ulna;Désarticulation;DS
+Up_i;Ulna;Décharnement;DC
+Us_a;Ulna;Décharnement;DC
+Us_ap;Ulna;Décharnement;DC
+Us_b;Ulna;Décharnement;DC
+Us_bs;Ulna;? décharnement (&/ou dépouillement?);DC (+ DP?)
+Vest_a;Phalanges;Dépouillement;DP
+Vest_as;Phalanges;? désarticulation &/ou dépouillement;DP + DS (MC/PH1)

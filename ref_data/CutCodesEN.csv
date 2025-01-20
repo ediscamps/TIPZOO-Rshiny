@@ -1,0 +1,411 @@
+code;Skel_part;Activity;Details_acti
+At_a;Atlas;Disarticulation;DS (CRA/ATL)
+At_b;Atlas;? defleshing &/or evisceration;DC + EV
+At_bs;Atlas;? disarticulation ?;DS ?
+At_c;Atlas;? defleshing &/or evisceration &/or disarticulation;DC + EV + DS (ATL/AXI)
+At_cp;Atlas;? defleshing &/or evisceration;DC + EV
+At_d;Atlas;Defleshing;DC
+At_dp;Atlas;Defleshing;DC
+At_ds;Atlas;Defleshing;DC
+At_e;Atlas;Defleshing;DC
+At_ep;Atlas;Defleshing;DC
+At_es;Atlas;? disarticulation ?;DS ?
+At_f;Atlas;Disarticulation;DS (ATL/AXI)
+At_fs;Atlas;Defleshing;DC
+At_g;Atlas;? defleshing (&/or disarticulation?);DC + DS ?
+At_gp;Atlas;Defleshing;DC
+At_h;Atlas;Disarticulation;DS (CRA/ATL)
+At_i;Atlas;Disarticulation;DS (ATL/AXI)
+Ax_a;Axis;? defleshing &/or disarticulation;DC + DS (ATL/AXI)
+Ax_ap;Axis;Defleshing;DC
+Ax_b;Axis;? defleshing &/or disarticulation;DC + DS (ATL/AXI)
+Ax_bp;Axis;Defleshing;DC
+Ax_bs;Axis;? defleshing &/or disarticulation;DC + DS (ATL/AXI)
+Ax_c;Axis;? disarticulation ?;DS ?
+Ax_cp;Axis;Defleshing;DC
+Ax_d;Axis;? defleshing (&/or disarticulation?);DC + DS ?
+Ax_dp;Axis;Defleshing;DC
+Ax_e;Axis;Defleshing;DC
+Ax_ep;Axis;Defleshing;DC
+Ax_f;Axis;? defleshing &/or disarticulation;DC + DS (ATL/AXI)
+Ax_fp;Axis;? defleshing &/or disarticulation;DC + DS (ATL/AXI)
+Ax_g;Axis;Defleshing;DC
+Ax_gp;Axis;Defleshing;DC
+Ax_h;Axis;? defleshing (&/or disarticulation?);DC + DS ?
+Ax_i;Axis;? defleshing &/or disarticulation;DC + DS (AXI/CER3)
+Ax_ip;Axis;Defleshing;DC
+Ax_j;Axis;? defleshing &/or evisceration &/or disarticulation;DC + EV + DS (ATL/AXI)
+Ax_jp;Axis;? defleshing &/or evisceration;DC + EV
+Ax_js;Axis;Disarticulation;DS (ATL/AXI)
+Ax_k;Axis;? defleshing &/or evisceration (&/or disarticulation?);DC + EV + DS ?
+Ax_kp;Axis;? defleshing &/or evisceration;DC + EV
+Ax_ks;Axis;? defleshing &/or evisceration (&/or disarticulation?);DC + EV + DS ?
+Cal_a;Tarsals;? defleshing &/or disarticulation (&/or suspension?);DS (TIB/TAR flex.) + DC (+ SP?)
+Cal_b;Tarsals;Disarticulation;DS (TIB/TAR flex.)
+Cal_c;Tarsals;Disarticulation;DS (TAR1/TAR2)
+Cal_dp;Tarsals;Defleshing;DC
+Cal_e;Tarsals;Disarticulation;DS (TIB/TAR exten.)
+Cal_ep;Tarsals;Disarticulation;DS (TIB/TAR flex.)
+Cal_f;Tarsals;Disarticulation;DS (TIB/TAR)
+Cal_g;Tarsals;Disarticulation;DS (TIB/TAR)
+Cal_gp;Tarsals;Skinning;DP
+Cal_h;Tarsals;? defleshing (&/or suspension?);DC (+ SP?) 
+Cal_i;Tarsals;Defleshing;DC
+Cbn_a;Tarsals;Disarticulation;DS (TAR1/TAR2 or TAR/MET)
+Cbn_ap;Tarsals;Skinning;DP
+Ctt_a;Carpals;Disarticulation;DS (CAR1/CAR2)
+Ctt_b;Carpals;Disarticulation;DS
+Cv_a;Cervical vertebra;Defleshing;DC
+Cv_ap;Cervical vertebra;Defleshing;DC
+Cv_b;Cervical vertebra;? defleshing &/or disarticulation;DC + DS (AXI/CER3)
+Cv_bp;Cervical vertebra;Defleshing;DC
+Cv_c;Cervical vertebra;? defleshing (&/or disarticulation?);DC + DS ?
+Cv_cp;Cervical vertebra;Defleshing;DC
+Cv_d;Cervical vertebra;Defleshing;DC
+Cv_dp;Cervical vertebra;Defleshing;DC
+Cv_ds;Cervical vertebra;? defleshing &/or disarticulation;DC + DS (CER)
+Cv_e;Cervical vertebra;? defleshing (&/or disarticulation?);DC + DS ?
+Cv_f;Cervical vertebra;Defleshing;DC
+Cv_g;Cervical vertebra;Defleshing;DC
+Cv_gs;Cervical vertebra;Disarticulation;DS (CER)
+Cv_h;Cervical vertebra;Defleshing;DC
+Cv_i;Cervical vertebra;Disarticulation;DS (CER) + DC
+Cv_ip;Cervical vertebra;Defleshing;DC
+Cv_j;Cervical vertebra;Defleshing;DC
+Cv_jp;Cervical vertebra;Defleshing;DC
+Cv_k;Cervical vertebra;Disarticulation;DS (CER) + DC
+Cv_kp;Cervical vertebra;Defleshing;DC
+Cv_l;Cervical vertebra;? defleshing &/or evisceration;DC + EV
+Cv_lp;Cervical vertebra;? defleshing &/or evisceration;DC + EV
+Cv_ls;Cervical vertebra;Disarticulation;DS
+Cv_m;Cervical vertebra;Disarticulation;DS
+Cv_n;Cervical vertebra;Disarticulation;DS
+Cv_o;Cervical vertebra;Disarticulation;DS
+Fd_a;Femur;Defleshing;DC
+Fd_b;Femur;? defleshing &/or disarticulation;DS + DC
+Fd_c;Femur;? defleshing &/or disarticulation;DS + DC
+Fd_cp;Femur;? defleshing &/or disarticulation;DS + DC
+Fd_d;Femur;Disarticulation;DS
+Fd_e;Femur;? defleshing &/or disarticulation;DS + DC
+Fd_f;Femur;Defleshing;DC
+Fd_g;Femur;Disarticulation;DS
+Fd_h;Femur;Defleshing;DC
+Fd_i;Femur;? defleshing &/or disarticulation;DS + DC
+Fib_a;Fibula;Disarticulation;DS
+Fib_b;Fibula;Defleshing;DC
+Fib_c;Fibula;Defleshing;DC
+Fp_a;Femur;Disarticulation;DS
+Fp_b;Femur;? defleshing &/or disarticulation;DS + DC
+Fp_c;Femur;? defleshing &/or disarticulation;DS + DC
+Fp_cp;Femur;? defleshing? disarticulation? ;DS? / DC ?
+Fp_d;Femur;Defleshing;DC
+Fp_dp;Femur;Defleshing;DC
+Fp_e;Femur;? defleshing &/or disarticulation;DS + DC
+Fp_ep;Femur;Defleshing;DC
+Fp_f;Femur;? defleshing (&/or disarticulation?);DC (+ DS?)
+Fp_fp;Femur;? defleshing (&/or disarticulation?);DC (+ DS?)
+Fp_g;Femur;Defleshing;DC
+Fp_h;Femur;Defleshing;DC
+Fp_i;Femur;Defleshing;DC
+Fp_ip;Femur;Defleshing;DC
+Fs_a;Femur;Defleshing;DC
+Fs_ap;Femur;Defleshing;DC
+Gcf_a;Tarsals;Disarticulation;DS (TAR1/TAR2)
+Hd_a;Humerus;Disarticulation;DS
+Hd_ap;Humerus;Defleshing;DC
+Hd_b;Humerus;? defleshing &/or disarticulation;DS + DC
+Hd_c;Humerus;Defleshing;DC
+Hd_cp;Humerus;Defleshing;DC
+Hd_d;Humerus;Disarticulation;DS (exten.)
+Hd_dp;Humerus;? defleshing &/or disarticulation;DS (flex.) + DC
+Hd_e;Humerus;? defleshing &/or disarticulation;DS + DC
+Hd_f;Humerus;Defleshing;DC
+Hd_g;Humerus;? defleshing &/or disarticulation;DS + DC
+Hd_gp;Humerus;Defleshing;DC
+Hd_h;Humerus;Disarticulation;DS
+Hd_hp;Humerus;Disarticulation;DS
+Hp_a;Humerus;? defleshing &/or disarticulation;DS + DC
+Hp_ap;Humerus;Defleshing;DC
+Hp_b;Humerus;? defleshing &/or disarticulation;DS + DC
+Hp_c;Humerus;Disarticulation;DS
+Hp_cp;Humerus;Defleshing;DC
+Hp_d;Humerus;Defleshing;DC
+Hp_e;Humerus;? defleshing &/or disarticulation;DS + DC
+Hp_ep;Humerus;Defleshing;DC
+Hp_f;Humerus;Defleshing;DC
+Hp_g;Humerus;Defleshing;DC
+Hp_gp;Humerus;Defleshing;DC
+Hp_h;Humerus;? defleshing &/or disarticulation;DS + DC
+Hp_hp;Humerus;Defleshing;DC
+Hp_ip;Humerus;Defleshing;DC
+Hp_j;Humerus;Disarticulation;DS
+Hp_k;Humerus;Disarticulation;DS
+Hp_kp;Humerus;Defleshing;DC
+Hp_l;Humerus;Defleshing;DC
+Hp_lp;Humerus;Defleshing;DC
+Hp_m;Humerus;Defleshing;DC
+Hp_mp;Humerus;Defleshing;DC
+Hs_a;Humerus;Defleshing;DC
+Hs_ap;Humerus;Defleshing;DC
+Lun_a;Carpals;Disarticulation;DS (RAD/CAR1)
+Lun_ap;Carpals;? disarticulation &/or skinning;DS + DP
+Lun_b;Carpals;Disarticulation;DS (CAR1/CAR2)
+Lun_bp;Carpals;Skinning;DP
+Lun_c;Carpals;Disarticulation;incidental DS marks
+Lv_a;Lumbar vertebra;Defleshing;DC
+Lv_ap;Lumbar vertebra;Defleshing;DC
+Lv_b;Lumbar vertebra;Defleshing;DC
+Lv_bp;Lumbar vertebra;Defleshing;DC
+Lv_bs;Lumbar vertebra;Disarticulation;DS
+Lv_c;Lumbar vertebra;Defleshing;DC
+Lv_cp;Lumbar vertebra;Disarticulation;DS
+Lv_cs;Lumbar vertebra;Disarticulation;DS
+Lv_d;Lumbar vertebra;? defleshing &/or disarticulation;DC + DS
+Lv_dp;Lumbar vertebra;Defleshing;DC
+Lv_ds;Lumbar vertebra;Disarticulation;DS
+Lv_e;Lumbar vertebra;Defleshing;DC
+Lv_ep;Lumbar vertebra;Defleshing;DC
+Lv_es;Lumbar vertebra;Disarticulation;DS
+Lv_f;Lumbar vertebra;Disarticulation;DS
+Lv_g;Lumbar vertebra;Disarticulation;DS
+Lv_h;Lumbar vertebra;Defleshing;DC
+Lv_hp;Lumbar vertebra;Defleshing;DC
+Lv_i;Lumbar vertebra;Defleshing;DC
+Lv_ip;Lumbar vertebra;Defleshing;DC
+Lv_j;Lumbar vertebra;Disarticulation;DS
+Lv_k;Lumbar vertebra;Disarticulation;DS
+Lv_kp;Lumbar vertebra;Defleshing;DC
+Lv_l;Lumbar vertebra;? defleshing &/or disarticulation;DC + DS
+Lv_m;Lumbar vertebra;Defleshing;DC
+Lv_mp;Lumbar vertebra;Defleshing;DC
+Lv_n;Lumbar vertebra;Evisceration;EV
+Lv_ns;Lumbar vertebra;Disarticulation;DS
+Lv_o;Lumbar vertebra;Evisceration;EV
+Man_a;Mandible;Skinning;DP
+Man_ap;Mandible;Skinning;DP
+Man_b;Mandible;Skinning;DP
+Man_bp;Mandible;Skinning;DP
+Man_c;Mandible;Skinning;DP
+Man_cp;Mandible;Skinning;DP
+Man_d;Mandible;Defleshing;DC
+Man_dp;Mandible;Defleshing;DC
+Man_e;Mandible;Disarticulation;DS
+Man_ep;Mandible;Disarticulation;DS
+Man_f;Mandible;? defleshing &/or disarticulation;DS + DC
+Man_fp;Mandible;? defleshing &/or disarticulation;DS + DC
+Man_g;Mandible;Defleshing;DC
+Man_gp;Mandible;Defleshing;DC
+Man_gs;Mandible;Defleshing;DC
+Man_h;Mandible;Defleshing;DC
+Man_i;Mandible;? defleshing &/or disarticulation;DS + DC
+Mcd_a;Metacarpal;Disarticulation;DS
+Mcd_b;Metacarpal;Disarticulation;DS
+Mcd_bp;Metacarpal;Tendon removal;TN POST
+Mcd_c;Metacarpal;? disarticulation &/or skinning;DP + DS
+Mcd_cp;Metacarpal;Disarticulation;DS
+Mcd_d;Metacarpal;Disarticulation;DS
+Mcp_a;Metacarpal;Disarticulation;DS
+Mcp_b;Metacarpal;Tendon removal;TN ANT
+Mcp_d;Metacarpal;Skinning;DP
+Mcp_e;Metacarpal;Tendon removal;TN POST
+Mcs_a;Metacarpal;Skinning;DP
+Mcs_ap;Metacarpal;Skinning;DP
+Mcs_as;Metacarpal;Skinning;DP
+Mcs_b;Metacarpal;Skinning;DP
+Mcs_bp;Metacarpal;Skinning;DP
+Mcs_bs;Metacarpal;Skinning;DP
+Mcs_c;Metacarpal;Tendon removal;TN ANT
+Mcs_cp;Metacarpal;Tendon removal;TN ANT
+Mcs_d;Metacarpal;? skinning &/or tendon removal;DP + TN ANT
+Mcs_e;Metacarpal;Skinning;DP
+Mcs_f;Metacarpal;Tendon removal;TN POST
+Mcs_fp;Metacarpal;Tendon removal;TN POST
+Ml_a;Malleolus;Disarticulation;DS
+Mtd_a;Metatarsal;Disarticulation;DS
+Mtd_b;Metatarsal;Disarticulation;DS
+Mtd_bp;Metatarsal;Disarticulation;DS
+Mtd_bs;Metatarsal;? disarticulation &/or skinning;DP + DS
+Mtd_c;Metatarsal;? disarticulation &/or tendon removal;DS + TN ANT
+Mtd_cp;Metatarsal;Tendon removal;TN ANT
+Mtd_d;Metatarsal;Disarticulation;DS
+Mtp_a;Metatarsal;Disarticulation;DS
+Mtp_b;Metatarsal;Tendon removal;TN ANT
+Mtp_bs;Metatarsal;Disarticulation;DS
+Mtp_c;Metatarsal;Tendon removal;TN ANT
+Mtp_d;Metatarsal;Skinning;DP
+Mtp_e;Metatarsal;Tendon removal;TN POST
+Mts_a;Metatarsal;Skinning;DP
+Mts_ap;Metatarsal;Skinning;DP
+Mts_as;Metatarsal;Skinning;DP
+Mts_b;Metatarsal;Skinning;DP
+Mts_bp;Metatarsal;Skinning;DP
+Mts_bs;Metatarsal;Skinning;DP
+Mts_c;Metatarsal;Tendon removal;TN ANT
+Mts_cp;Metatarsal;Tendon removal;TN ANT
+Mts_d;Metatarsal;Skinning;DP
+Mts_e;Metatarsal;Skinning;DP
+Mts_f;Metatarsal;Tendon removal;TN POST
+Mts_fp;Metatarsal;Tendon removal;TN POST
+Pat_a;Patella;Defleshing;DC
+Ph1_a;Phalanges;Disarticulation;DS
+Ph1_b;Phalanges;Disarticulation;DS
+Ph1_c;Phalanges;? disarticulation &/or skinning;DP + DS
+Ph1_d;Phalanges;Disarticulation;DS (between PH1)
+Ph1_e;Phalanges;Skinning;DP
+Ph1_f;Phalanges;Tendon removal;TN
+Ph1_fs;Phalanges;Skinning;DP
+Ph1_gp;Phalanges;Tendon removal;TN
+Ph1_h;Phalanges;? skinning &/or tendon removal;DP + TN
+Ph2_b;Phalanges;Disarticulation;DS
+Ph2_c;Phalanges;Skinning;DP
+Ph2_d;Phalanges;Disarticulation;DS (between PH2)
+Ph2_hp;Phalanges;Skinning;DP
+Pis_a;Carpals;Disarticulation;DS (CAR1/CAR2)
+Pis_b;Carpals;Disarticulation;DS (RAD/CAR1)
+Pis_c;Carpals;Disarticulation;DS
+Pis_cp;Carpals;? disarticulation &/or skinning;DP + DS
+Pis_d;Carpals;Disarticulation;DS
+Pyr_a;Carpals;Disarticulation;DS (RAD/CAR1)
+Pyr_ap;Carpals;Skinning;DP
+Pyr_b;Carpals;Disarticulation;DS (CAR1/CAR2)
+Pyr_c;Carpals;Disarticulation;incidental DS marks
+Pyr_cp;Carpals;Skinning;DP
+Rd_a;Radius;Defleshing;DC
+Rd_ap;Radius;? defleshing &/or tendon removal;TN + DC
+Rd_b;Radius;Disarticulation;DS
+Rd_c;Radius;Defleshing;DC
+Rd_cp;Radius;Defleshing;DC
+Rd_d;Radius;Disarticulation;DS
+Rd_dp;Radius;Defleshing;DC
+Rd_e;Radius;Disarticulation;DS
+Rd_ep;Radius;Disarticulation;DS
+Rp_a;Radius;Disarticulation;DS
+Rp_ap;Radius;? defleshing &/or disarticulation;DS + DC
+Rp_b;Radius;? defleshing &/or disarticulation;DS + DC
+Rp_c;Radius;Defleshing;DC
+Rp_cp;Radius;Defleshing;DC
+Rp_d;Radius;Defleshing;DC
+Rp_e;Radius;Disarticulation;DS
+Rp_ep;Radius;Defleshing;DC
+Rp_f;Radius;Defleshing;DC
+Rp_fs;Radius;Disarticulation;DS
+Rp_g;Radius;Defleshing;DC
+Rs_a;Radius;Defleshing;DC
+Rs_ap;Radius;Defleshing;DC
+Rs_b;Radius;Defleshing;DC
+Rs_bp;Radius;Defleshing;DC
+Rs_bs;Radius;? defleshing (&/or skinning?);DC (+ DP?)
+Rs_c;Radius;Defleshing;DC
+Rs_cp;Radius;? defleshing &/or tendon removal;TN + DC
+Rs_cs;Radius;? defleshing (&/or skinning?);DC (+ DP?)
+Sac_a;Sacrum;Defleshing;DC
+Sac_ap;Sacrum;Defleshing;DC
+Sac_b;Sacrum;Disarticulation;DS
+Sac_c;Sacrum;Disarticulation;DS
+Sac_cp;Sacrum;Disarticulation;DS
+Sac_d;Sacrum;Defleshing;DC
+Sac_dp;Sacrum;Defleshing;DC
+Sac_e;Sacrum;Evisceration;EV
+Sac_ep;Sacrum;Evisceration;EV
+Sc_a;Scapula;? defleshing (&/or disarticulation?);DC (+ DS?)
+Sc_ap;Scapula;Defleshing;DC
+Sc_as;Scapula;Disarticulation;DS
+Sc_b;Scapula;Defleshing;DC
+Sc_bp;Scapula;Defleshing;DC
+Sc_bs;Scapula;? defleshing &/or disarticulation;DS + DC
+Sc_c;Scapula;Defleshing;DC
+Sc_cp;Scapula;Defleshing;DC
+Sc_d;Scapula;Defleshing;DC
+Sc_e;Scapula;Defleshing;DC
+Sc_ep;Scapula;Defleshing;DC
+Sca_a;Carpals;Disarticulation;DS (RAD/CAR1)
+Sca_b;Carpals;Disarticulation;DS (CAR1/CAR2)
+Sca_c;Carpals;Disarticulation;incidental DS marks
+Ses_a;Sesamoids;Disarticulation;DS (MET/PH1)
+Ses_b;Sesamoids;Disarticulation;DS (MET/PH1)
+Ses_c;Sesamoids;? disarticulation &/or tendon remova;DS (MET/PH1) + TN
+Ses_d;Sesamoids;? disarticulation &/or tendon remova;DS (MET/PH1) + TN
+Ses_e;Sesamoids;Disarticulation;DS (MET/PH1)
+Ses_f;Sesamoids;Disarticulation;DS (MET/PH1)
+Ses_g;Sesamoids;Tendon removal;TN PH1
+Ses_h;Sesamoids;Disarticulation;DS (MET/PH1)
+Tal_a;Tarsals;Disarticulation;DS TIB/TAR (flex.)
+Tal_b;Tarsals;Disarticulation;DS TIB/TAR
+Tal_c;Tarsals;Disarticulation;DS TIB/TAR (flex.)
+Tal_cs;Tarsals;Disarticulation;DS TIB/TAR (exten.)
+Tal_d;Tarsals;Disarticulation;DS
+Tal_e;Tarsals;Disarticulation;DS TIB/TAR (flex.)
+Td_ap;Tibia;Skinning;DP
+Td_as;Tibia;Skinning;DP
+Td_b;Tibia;Defleshing;DC
+Td_bs;Tibia;? defleshing &/or skinning;DC + DP
+Td_c;Tibia;Skinning;DP
+Td_d;Tibia;Defleshing;DC
+Td_e;Tibia;Disarticulation;DS
+Td_f;Tibia;Defleshing;DC
+Td_fp;Tibia;Defleshing;DC
+Td_fs;Tibia;Disarticulation;DS
+Td_g;Tibia;Disarticulation;DS
+Tp_a;Tibia;? defleshing &/or disarticulation;DS + DC
+Tp_b;Tibia;Defleshing;DC
+Tp_bp;Tibia;Defleshing;DC
+Tp_c;Tibia;Disarticulation;DS
+Tp_d;Tibia;Defleshing;DC
+Tp_dp;Tibia;Defleshing;DC
+Tp_e;Tibia;? defleshing &/or disarticulation;DS + DC
+Tp_f;Tibia;Defleshing;DC
+Tp_fp;Tibia;Defleshing;DC
+Ts_a;Tibia;Defleshing;DC
+Ts_ap;Tibia;Defleshing;DC
+Ts_b;Tibia;Defleshing;DC
+Ts_bp;Tibia;? defleshing &/or skinning;DC + DP
+Ts_c;Tibia;Defleshing;DC
+Ts_cp;Tibia;Defleshing;DC
+Ts_d;Tibia;Defleshing;DC
+Ts_dp;Tibia;? defleshing &/or skinning;DC + DP
+Ts_ds;Tibia;? defleshing &/or skinning;DC + DP
+Ts_e;Tibia;Defleshing;DC
+Ts_ep;Tibia;Defleshing;DC
+Ts_es;Tibia;? defleshing &/or skinning;DC + DP
+Tv_a;Thoracic vertebra;Defleshing;DC
+Tv_ap;Thoracic vertebra;Defleshing;DC
+Tv_as;Thoracic vertebra;Disarticulation;DS
+Tv_b;Thoracic vertebra;? disarticulation &/or evisceration;EV + DS
+Tv_c;Thoracic vertebra;Disarticulation;DS
+Tv_cp;Thoracic vertebra;Defleshing;DC
+Tv_d;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_dp;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_ds;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_e;Thoracic vertebra;Evisceration;EV
+Tv_es;Thoracic vertebra;? evisceration (&/or disarticulation?);EV + DS ?
+Tv_f;Thoracic vertebra;? defleshing &/or evisceration;EV + DC
+Tv_fp;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_g;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_gp;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_h;Thoracic vertebra;Disarticulation;DS
+Tv_hp;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_i;Thoracic vertebra;Disarticulation;DS
+Tv_j;Thoracic vertebra;Disarticulation;DS (RIB)
+Tv_k;Thoracic vertebra;Disarticulation;DS
+Tv_l;Thoracic vertebra;Defleshing;DC
+Tv_lp;Thoracic vertebra;Defleshing;DC
+Ud_a;Ulna;Disarticulation;DS
+Unc_a;Carpals;Disarticulation;DS (CAR1/CAR2)
+Unc_b;Carpals;Disarticulation;DS
+Up_a;Ulna;? defleshing (&/or skinning?);DC (+ DP?)
+Up_ap;Ulna;Defleshing;DC
+Up_b;Ulna;Defleshing;DC
+Up_bp;Ulna;Defleshing;DC
+Up_c;Ulna;Disarticulation;DS
+Up_d;Ulna;? defleshing &/or disarticulation;DS + DC
+Up_e;Ulna;Disarticulation;DS
+Up_f;Ulna;? defleshing &/or disarticulation;DS + DC
+Up_g;Ulna;Disarticulation;DS
+Up_h;Ulna;Disarticulation;DS
+Up_i;Ulna;Defleshing;DC
+Us_a;Ulna;Defleshing;DC
+Us_ap;Ulna;Defleshing;DC
+Us_b;Ulna;Defleshing;DC
+Us_bs;Ulna;? defleshing (&/or skinning?);DC (+ DP?)
+Vest_a;Phalanges;Skinning;DP
+Vest_as;Phalanges;? disarticulation &/or skinning;DP + DS (MC/PH1)

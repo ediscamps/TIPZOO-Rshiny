@@ -1,0 +1,48 @@
+SpeciesCode;LatinName;CommonName
+BB;Bovinae;Auroch and bison
+CAB;Equus ferus;Horse
+HYDR;Equus hydruntinus;Wild ass
+CEL;Cervus elaphus;Red deer
+CAPREO;Capreolus sp.;Roe deer
+CAPRA;Capra sp.;Ibex
+RUPI;Rupicapra sp.;Chamois
+RANG;Rangifer tarandus;Reindeer/caribou
+SAIGA;Saiga tatarica;Saiga antelope
+DAMA;Dama dama;Fallow deer
+SUS;Sus scrofa;Wild boar
+MEG;Megaloceros giganteus;Irish elk
+RHINO;Rhinocerotidae;Rhinoceros
+PROBO;Proboscidea;Proboscideans†
+LUP;Canis lupus;Wolf
+CROC;Crocuta crocuta;Spotted hyena
+PLEO;Panthera leo/spelaea;Lion
+PPAR;Panthera pardus;Leopard
+URSI;Ursus sp.;Bear
+URSS;Ursus spelaeus;Cave bear
+URSA;Ursus arctos;Brown bear
+VULPI;Vulpinae;Fox
+VULPV;Vulpes vulpes;Red fox
+VULPA;Vulpes/Alopex lagopus;Polar fox
+MUST;Mustelidae;Mustelids
+MELES;Meles meles;Badger
+LYNX;Lynx sp.;Lynx
+FELIS;Felis silvestris;Wild cat
+LAGO;Lagomorpha;Lagomorphs
+LEP;Lepus sp.;Hare
+ORY;Oryctolagus sp.;Rabbit
+MARM;Marmota sp.;Marmot
+CAST;Castor sp.;Beaver
+SCARN;-;Unidentified small carnivores
+LCARN;-;Unidentified large carnivores
+SVERT;-;Unidentified small vertebrates
+MAM1;-;Unidentified mammals (size 1)
+MAM2;-;Unidentified mammals (size 2)
+MAM3;-;Unidentified mammals (size 3)
+MAM4;-;Unidentified mammals (size 4)
+MAM5;-;Unidentified mammals (size 5)
+MAM12;-;Unidentified mammals (size 1/2)
+MAM23;-;Unidentified mammals (size 2/3)
+MAM34;-;Unidentified mammals (size 3/4)
+MAM45;-;Unidentified mammals (size 4/5)
+NID;-;Unidentified
+Sum;-;Total

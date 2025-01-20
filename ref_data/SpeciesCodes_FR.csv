@@ -1,0 +1,48 @@
+SpeciesCode;NomLatin;NomCommun
+BB;Bovinae;Bovinés
+CAB;Equus ferus;Cheval
+HYDR;Equus hydruntinus;Hydruntin
+CEL;Cervus elaphus;Cerf
+CAPREO;Capreolus sp.;Chevreuil
+CAPRA;Capra sp.;Bouquetin
+RUPI;Rupicapra sp.;Chamois
+RANG;Rangifer tarandus;Renne
+SAIGA;Saiga tatarica;Antilope saïga
+DAMA;Dama dama;Daim
+SUS;Sus scrofa;Sanglier
+MEG;Megaloceros giganteus;Mégacéros
+RHINO;Rhinocerotidae;Rhinocéros
+PROBO;Proboscidea;Proboscidiens
+LUP;Canis lupus;Loup
+CROC;Crocuta crocuta;Hyène tachetée
+PLEO;Panthera leo/spelaea;Lion
+PPAR;Panthera pardus;Léopard
+URSI;Ursus sp.;Ours
+URSS;Ursus spelaeus;Ours des cavernes
+URSA;Ursus arctos;Ours brun
+VULPI;Vulpinae;Vulpinés
+VULPV;Vulpes vulpes;Renard commun
+VULPA;Vulpes/Alopex lagopus;Renard polaire
+MUST;Mustelidae;Mustélidés
+MELES;Meles meles;Blaireau
+LYNX;Lynx sp.;Lynx
+FELIS;Felis silvestris;Chat sauvage
+LAGO;Lagomorpha;Lagomorphes
+LEP;Lepus sp.;Lièvre
+ORY;Oryctolagus sp.;Lapin
+MARM;Marmota sp.;Marmotte
+CAST;Castor sp.;Castor
+SCARN;-;Petits carnivores indéterminés
+LCARN;-;Grands carnivores indéterminés
+SVERT;-;Petits vertébrés indéterminés
+MAM1;-;Mammifères indéterminés (taille 1)
+MAM2;-;Mammifères indéterminés (taille 2)
+MAM3;-;Mammifères indéterminés (taille 3)
+MAM4;-;Mammifères indéterminés (taille 4)
+MAM5;-;Mammifères indéterminés (taille 5)
+MAM12;-;Mammifères indéterminés (taille 1/2)
+MAM23;-;Mammifères indéterminés (taille 2/3)
+MAM34;-;Mammifères indéterminés (taille 3/4)
+MAM45;-;Mammifères indéterminés (taille 4/5)
+NID;-;Indéterminés
+Sum;-;Total

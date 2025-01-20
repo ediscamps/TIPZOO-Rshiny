@@ -1,0 +1,48 @@
+SpeciesCode;LatinName;EnglishCommonName;FrenchCommonName
+BB;Bovinae;Auroch and bison;Bovinés
+CAB;Equus ferus;Horse;Cheval
+HYDR;Equus hydruntinus;Wild ass;Hydruntin
+CEL;Cervus elaphus;Red deer;Cerf
+CAPREO;Capreolus sp.;Roe deer;Chevreuil
+CAPRA;Capra sp.;Ibex;Bouquetin
+RUPI;Rupicapra sp.;Chamois;Chamois
+RANG;Rangifer tarandus;Reindeer/caribou;Renne
+SAIGA;Saiga tatarica;Saiga antelope;Antilope saïga
+DAMA;Dama dama;Fallow deer;Daim
+SUS;Sus scrofa;Wild boar;Sanglier
+MEG;Megaloceros giganteus;Irish elk;Mégacéros
+RHINO;Rhinocerotidae;Rhinoceros;Rhinocéros
+PROBO;Proboscidea;Proboscideans†;Proboscidiens
+LUP;Canis lupus;Wolf;Loup
+CROC;Crocuta crocuta;Spotted hyena;Hyène tachetée
+PLEO;Panthera leo/spelaea;Lion;Lion
+PPAR;Panthera pardus;Leopard;Léopard
+URSI;Ursus sp.;Bear;Ours
+URSS;Ursus spelaeus;Cave bear;Ours des cavernes
+URSA;Ursus arctos;Brown bear;Ours brun
+VULPI;Vulpinae;Fox;Vulpinés
+VULPV;Vulpes vulpes;Red fox;Renard commun
+VULPA;Vulpes/Alopex lagopus;Polar fox;Renard polaire
+MUST;Mustelidae;Mustelids;Mustélidés
+MELES;Meles meles;Badger;Blaireau
+LYNX;Lynx sp.;Lynx;Lynx
+FELIS;Felis silvestris;Wild cat;Chat sauvage
+LAGO;Lagomorpha;Lagomorphs;Lagomorphes
+LEP;Lepus sp.;Hare;Lièvre
+ORY;Oryctolagus sp.;Rabbit;Lapin
+MARM;Marmota sp.;Marmot;Marmotte
+CAST;Castor sp.;Beaver;Castor
+SCARN;-;Unidentified small carnivores;Petits carnivores indéterminés
+LCARN;-;Unidentified large carnivores;Grands carnivores indéterminés
+SVERT;-;Unidentified small vertebrates;Petits vertébrés indéterminés
+MAM1;-;Unidentified mammals (size 1);Mammifères indéterminés (taille 1)
+MAM2;-;Unidentified mammals (size 2);Mammifères indéterminés (taille 2)
+MAM3;-;Unidentified mammals (size 3);Mammifères indéterminés (taille 3)
+MAM4;-;Unidentified mammals (size 4);Mammifères indéterminés (taille 4)
+MAM5;-;Unidentified mammals (size 5);Mammifères indéterminés (taille 5)
+MAM12;-;Unidentified mammals (size 1/2);Mammifères indéterminés (taille 1/2)
+MAM23;-;Unidentified mammals (size 2/3);Mammifères indéterminés (taille 2/3)
+MAM34;-;Unidentified mammals (size 3/4);Mammifères indéterminés (taille 3/4)
+MAM45;-;Unidentified mammals (size 4/5);Mammifères indéterminés (taille 4/5)
+NID;-;Unidentified;Indéterminés
+Sum;-;Total;Total

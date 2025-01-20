@@ -1,0 +1,12 @@
+name: TIPZOO-Rshiny
+title: TIPZOO-Rshiny
+username: ediscamps
+account: ediscamps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13759675
+bundleId: 9672907
+url: https://ediscamps.shinyapps.io/TIPZOO-Rshiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
