@@ -377,7 +377,8 @@ ui_tab_nde <- fluidPage(
                              "Caprinae, all NDE (Morin et al. & new ones from TIPZOO), including measurements" = "ref_data/NDEcodes_CAPRIwithmes.csv",   
                              "Caprinae, all NDE (Morin et al. & new ones from TIPZOO), WITHOUT measurements" = "ref_data/NDEcodes_CAPRInomes.csv",   
                              "Red deer, all NDE (Morin et al. & new ones from TIPZOO), WITHOUT measurements" = "ref_data/NDEcodes_CELnomes.csv",
-                             "Suidae, all NDE (Morin et al. & new ones from TIPZOO), WITHOUT measurements" = "ref_data/NDEcodes_SUInomes.csv"
+                             "Suidae, all NDE (Morin et al. & new ones from TIPZOO), WITHOUT measurements" = "ref_data/NDEcodes_SUInomes.csv",
+                             "Wolf/dog, all NDE (Morin et al. & new ones from TIPZOO), WITHOUT measurements" = "ref_data/NDEcodes_LUPnomes.csv"
                              ),
               width = "100%"
   ),
