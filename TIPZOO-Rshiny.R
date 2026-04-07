@@ -1505,13 +1505,41 @@ server <- function(input,output,session) {
     persotableFract <- function(group)
     {
       library(dplyr)
-      tableFract1<-table(group, dataset$`TAPHO::Fract1`, exclude = NULL)
-      tableFract2<-table(group, dataset$`TAPHO::Fract2`, exclude = NULL)
-      Green<-addmargins(cbind(tableFract1[,grep("Green",colnames(tableFract1))],tableFract2[,grep("Green",colnames(tableFract2))]))
-      Dry<-addmargins(cbind(tableFract1[,grep("Dry",colnames(tableFract1))],tableFract2[,grep("Dry",colnames(tableFract2))]))
-      Recent<-addmargins(cbind(tableFract1[,grep("Recent",colnames(tableFract1))],tableFract2[,grep("Recent",colnames(tableFract2))]))
-      TOT<-cbind(Green[,"Sum"],Dry[,"Sum"],Recent[,"Sum"])
-      TOT<-addmargins(TOT,2)
+      tableFract1<-as.data.frame.matrix(table(group, dataset$`TAPHO::Fract1`, exclude = NULL))
+      tableFract2<-as.data.frame.matrix(table(group, dataset$`TAPHO::Fract2`, exclude = NULL))
+      
+      Green1 <- tableFract1 %>% 
+        dplyr::select(contains("Green")) %>%
+        mutate(sum = rowSums(.)) %>%
+        dplyr::select(sum)
+      
+      Green2 <- tableFract2 %>% 
+        dplyr::select(contains("Green")) %>%
+        mutate(sum = rowSums(.)) %>%
+        dplyr::select(sum)
+      
+      Dry1 <- tableFract1 %>% 
+        dplyr::select(contains("Dry")) %>%
+        mutate(sum = rowSums(.)) %>%
+        dplyr::select(sum)
+      
+      Dry2 <- tableFract2 %>% 
+        dplyr::select(contains("Dry")) %>%
+        mutate(sum = rowSums(.)) %>%
+        dplyr::select(sum)
+      
+      Recent1 <- tableFract1 %>% 
+        dplyr::select(contains("Recent")) %>%
+        mutate(sum = rowSums(.)) %>%
+        dplyr::select(sum)
+      
+      Recent2 <- tableFract2 %>% 
+        dplyr::select(contains("Recent")) %>%
+        mutate(sum = rowSums(.)) %>%
+        dplyr::select(sum)
+      
+      TOT<-cbind(rowSums(cbind(Green1, Green2)),rowSums(cbind(Dry1, Dry2)),rowSums(cbind(Recent1, Recent2)))
+      TOT<-addmargins(TOT)
       TOT<-cbind(TOT,TOT[,1]/(TOT[,1]+TOT[,2]))
       colnames(TOT) <- c("Green","Dry","Recent","Sum","G/(G+D)")
       return(data.frame(TOT, check.rows = FALSE, check.names = FALSE))
@@ -1520,11 +1548,27 @@ server <- function(input,output,session) {
     # creating the fracture table
     TableFract <- persotableFract(dataset$`Group`)
     
-    # creating the conctype table
-    TableConcType <- data.frame(cbind(addmargins(table(dataset$`Group`, dataset$`TAPHO::ConcType`, exclude = NA))), check.rows = FALSE, check.names = FALSE)
     
-    # creating the BoneColor table
-    TableBoneColor <- data.frame(cbind(addmargins(table(dataset$`Group`, dataset$`BoneColor`, exclude = NA))), check.rows = FALSE, check.names = FALSE)
+    # creating the conctype table
+    TableConcType <- as.data.frame("No concretion type data")
+  if(sum(is.na( dataset$`TAPHO::ConcType`)) != nrow(dataset) ){ #checking if only NA values exist for the variable  
+      TableConcType <- data.frame(cbind(addmargins(table(dataset$`Group`, dataset$`TAPHO::ConcType`, exclude = NA))), check.rows = FALSE, check.names = FALSE)
+    }
+    
+    # # creating the BoneColor table
+    TableBoneColor <- as.data.frame("No bone color data")
+    
+    if(sum(is.na( dataset$`BoneColor`)) != nrow(dataset) ){ #checking if only NA values exist for the variable  
+      TableBoneColor <- data.frame(cbind(addmargins(table(dataset$`Group`, dataset$`BoneColor`, exclude = NA))), check.rows = FALSE, check.names = FALSE)
+    }
+    
+    # 
+    # 
+    # # creating the conctype table
+    # TableConcType <- data.frame(cbind(addmargins(table(dataset$`Group`, dataset$`TAPHO::ConcType`, exclude = NA))), check.rows = FALSE, check.names = FALSE)
+    # # 
+    # # # creating the BoneColor table
+    # TableBoneColor <- data.frame(cbind(addmargins(table(dataset$`Group`, dataset$`BoneColor`, exclude = NA))), check.rows = FALSE, check.names = FALSE)
     
     
     # creating the final list
